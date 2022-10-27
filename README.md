@@ -58,8 +58,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-anand4866&hide_border=true" />
 
-<!--
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🧑‍🚀 Projects</b></summary>
 
   <br />
   <table>
@@ -75,28 +74,28 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/A-anand4866/ChatBot"><b>🤖 ChatBot </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/ChatBot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/ChatBot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/ChatBot?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/A-anand4866/Sudoku"><b>🎲 Sudoku</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/Sudoku?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/Sudoku?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/Sudoku?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/A-anand4866/Tic-Tac-Toe"><b>🀄 Tic-Tac-Toe</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/A-anand4866/A-anand4866"><b>🤓 A-anand4866</b></a></td>
@@ -108,10 +107,13 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
       </tr>
     </tbody>
   </table>
-  <br /> -->
-#
+  <br />
+
+<summary><b>🧑‍🚀 Open Source Projects Achivement</b></summary>
 
 <div align="center">
+
+[![@avinash02's Holopin board](https://holopin.me/avinash02)](https://holopin.io/@avinash02)
 
 ### Show some ❤️ by starring some of the repositories!
 
