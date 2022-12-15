@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://avinash02.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avinash_anand.02/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=A-anand4866.A-anand4866&style=flat-square&color=0088cc)
 
@@ -14,7 +14,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/A-anand4866).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AvinashAnand02).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/avinash-anand02/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: avinashmgr53@gmail.com.
@@ -49,14 +49,14 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-anand4866&show_icons=true&theme=default#gh-light-mode-only" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-anand4866&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvinashAnand02&show_icons=true&theme=default#gh-light-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&layout=compact" />
 
 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-anand4866&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnand02&hide_border=true" />
 
   <summary><b>🧑‍🚀 Projects</b></summary>
 
@@ -74,35 +74,35 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏛. I'm a passion
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/ChatBot"><b>🤖 ChatBot </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/ChatBot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/ChatBot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/ChatBot?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/ChatBot?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/ChatBot?style=flat-square"/></td>
+	      <td><a href="https://github.com/AvinashAnand02/ChatBot"><b>🤖 ChatBot </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/ChatBot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/ChatBot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/ChatBot?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/Sudoku"><b>🎲 Sudoku</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/Sudoku?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/Sudoku?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/Sudoku?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/Sudoku?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/Sudoku?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/AvinashAnand02/Sudoku"><b>🎲 Sudoku</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/Sudoku?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/Sudoku?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/Sudoku?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/Tic-Tac-Toe"><b>🀄 Tic-Tac-Toe</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/A-anand4866/Tic-Tac-Toe?style=flat-square"/></td> 
+	      <td><a href="https://github.com/AvinashAnand02/Tic-Tac-Toe"><b>🀄 Tic-Tac-Toe</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/A-anand4866/A-anand4866"><b>🤓 A-anand4866</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/A-anand4866/A-anand4866?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/A-anand4866/A-anand4866?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/A-anand4866/A-anand4866?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/A-anand4866/A-anand4866?style=flat-square"/></td>
+	      <td><a href="https://github.com/AvinashAnand02/AvinashAnand02"><b>🤓 A-anand4866</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/AvinashAnand02?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/AvinashAnand02?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/AvinashAnand02?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/AvinashAnand02?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
