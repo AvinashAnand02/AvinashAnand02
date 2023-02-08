@@ -59,7 +59,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnand02&hide_border=true" />
 
-  <summary><b>🧑‍🚀 Projects</b></summary>
+<!--   <summary><b>🧑‍🚀 Projects</b></summary>
 
   <br />
   <table>
@@ -108,7 +108,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
       </tr>
     </tbody>
   </table>
-  <br />
+  <br /> -->
 
 <summary><b>🧑‍🚀 Open Source Projects Achivement</b></summary>
 
