@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/)
 
-### Glad to see you here! &nbsp; ![Profile views](https://gpvc.arturio.dev/AvinashAnand02)
+### Glad to see you here! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
 
 I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
