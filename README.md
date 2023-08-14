@@ -18,7 +18,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/avinash-anand02/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: avinashmgr53@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/A-anand4866/-portfolio-Avinash-Anand/blob/main/assests/Resume-Avinash%20Anand.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/18kvXgwK2btjG-2Sc4EFbSlbzqms3TN_G/view?usp=sharing).
 
 ### My Absolute Favorites:
 
@@ -52,6 +52,12 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvinashAnand02&show_icons=true&theme=default#gh-light-mode-only" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&layout=compact" />
+<p>
+  <a href="https://github.com/AvinashAnand02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashAnand02&theme=default" alt="Avinash's GitHub Contribution"/>
+  </a>
+</p>
+
 
 
   <summary><b>☄️ Github Streaks</b></summary>
