@@ -40,7 +40,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
 
 <p align="left">
 
-  <a href="https://leetcode.com/avinashanand/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="https://leetcode.com/avinashanand02/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 
 </p>
 
