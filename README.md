@@ -50,11 +50,14 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvinashAnand02&show_icons=true&theme=default#gh-light-mode-only" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&layout=compact" />
+  <a> 
+    <a href="https://github.com/AvinashAnand02"><img alt="Avinash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvinashAnand02&show_icons=true&count_private=true&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AvinashAnand02"><img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&langs_count=8&layout=compact&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 <p>
   <a href="https://github.com/AvinashAnand02">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashAnand02&theme=default" alt="Avinash's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashAnand02&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" alt="Avinash's GitHub Contribution"/>
   </a>
 </p>
 
