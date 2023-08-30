@@ -3,9 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://avinashanand.me)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/) <br>
+[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) &nbsp;  ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
 
-### Glad to see you here! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
+### Glad to see you here!
 
 I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
