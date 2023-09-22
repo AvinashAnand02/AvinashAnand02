@@ -62,6 +62,7 @@ I'm pursuing B-Tech 🎓 from Lovely Professional University 🏫. I'm a passion
   </a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvinashAnand02" alt="Avinash" /></a> </p>
 
 
   <summary><b>☄️ Github Streaks</b></summary>
