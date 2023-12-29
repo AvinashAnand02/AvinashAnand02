@@ -1,14 +1,17 @@
 ![](https://github.com/AvinashAnand02/AvinashAnand02/blob/main/header_.png)
 
 <h1 align="center" >Hi, I'm <a href="https://avinashanand.me/" target="_blank"> Avinash Anand </a></h1>
+<p align="center">
+  🚀 Full Stack Developer | 🌐 Open Source Enthusiast | 📚 Lifelong Learner
+</p>
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://avinashanand.me)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/) <br>
-[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) <br> ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=plastic&logo=google-chrome&logoColor=white)](https://avinashanand.me)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/) <br>
+[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) <br> ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
 [![GitHub followers](https://img.shields.io/github/followers/AvinashAnand02.svg?style=social&label=Follow)](https://github.com/AvinashAnand02?tab=followers)
 
 </div>
