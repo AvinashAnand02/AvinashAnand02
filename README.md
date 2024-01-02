@@ -2,7 +2,10 @@
 
 <h1 align="center" >Hi, I'm <a href="https://avinashanand.me/" target="_blank"> Avinash Anand </a></h1>
 <p align="center">
-  🚀 Full Stack Developer | 🌐 Open Source Enthusiast | 📚 Lifelong Learner
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
+
 </p>
 
 <div align="center">
