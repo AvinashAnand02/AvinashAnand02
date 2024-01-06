@@ -150,8 +150,7 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 
 [![@avinash02's Holopin board](https://holopin.me/avinash02)](https://holopin.io/@avinash02)
 
-### Show some ❤️ by starring some of the repositories!
-
+### Show some 🤍 by starring some of the repositories!
 </div>
 
 <div align="center">
