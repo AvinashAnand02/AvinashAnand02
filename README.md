@@ -99,6 +99,12 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnand02&hide_border=true" />
 
+  <summary><b>🛂 Top Contributions</b></summary> <br />
+
+![](https://github-contributor-stats.vercel.app/api?username=AvinashAnand02&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+
+
 <!--   <summary><b>🧑‍🚀 Projects</b></summary>
 
   <br />
