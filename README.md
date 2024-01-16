@@ -41,7 +41,8 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+## Languages and Tools:
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -59,14 +60,19 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-   
-<h3 align="left">Platforms :</h3>
 
-<p align="left">
+</div>
 
-  <a href="https://leetcode.com/avinashanand02/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 
-</p>
+## organization
+
+<div align="center">
+  <a href="https://github.com/StudyJam">
+    <img src="https://github.com/StudyJam.png" alt="StudyJam Logo" width="100" height="100">
+  </a>
+</div>
+
+<h1 align="center">StudyJam</h1>
 
 ### Projects and Dev Stuffs:
 
@@ -144,11 +150,14 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
   </table>
   <br /> -->
 
-<summary><b>🧑‍🚀 Open Source Projects Achivement</b></summary>
+<summary><b>🧑‍🚀 Open Source Projects Achivement</b></summary> <br>
 
 <div align="center">
 
 [![@avinash02's Holopin board](https://holopin.me/avinash02)](https://holopin.io/@avinash02)
+
+##
+
 
 ### Show some 🤍 by starring some of the repositories!
 </div>
