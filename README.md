@@ -165,7 +165,7 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 ##
 
 
-### Show some 🤍 by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!
 </div>
 
 <div align="center">
