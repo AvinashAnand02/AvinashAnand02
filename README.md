@@ -85,6 +85,17 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
   <a href="https://github.com/AvinashAnand02"><img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&langs_count=8&layout=compact&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+<br> <br>
+<summary><b>🔝 Top Repository</b></summary> 
+<br>
+
+<a href="https://github.com/AvinashAnand02/Avinash-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Avinash-Portfolio&theme=buefy" />
+</a>
+<a href="https://github.com/AvinashAnand02/Server-Side-Development-with-NodeJS-coursera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Server-Side-Development-with-NodeJS-coursera&theme=buefy" />
+</a>
+<br><br> <br> 
 <p>
   <a href="https://github.com/AvinashAnand02">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashAnand02&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" alt="Avinash's GitHub Contribution"/>
