@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=plastic&logo=google-chrome&logoColor=white)](https://avinashanand.me)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/) <br>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/avinashh.anand/) <br>
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) <br> ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
 [![GitHub followers](https://img.shields.io/github/followers/AvinashAnand02.svg?style=social&label=Follow)](https://github.com/AvinashAnand02?tab=followers)
 
