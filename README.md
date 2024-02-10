@@ -70,6 +70,9 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
   <a href="https://github.com/StudyJam">
     <img src="https://github.com/StudyJam.png" alt="StudyJam Logo" width="100" height="100">
   </a>
+
+[![GitHub followers](https://img.shields.io/github/followers/studyjam.svg?style=social&label=Follow)](https://github.com/studyjam?tab=followers)
+
 </div>
 
 <h1 align="center">StudyJam</h1>
