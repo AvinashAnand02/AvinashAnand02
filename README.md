@@ -71,11 +71,15 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
     <img src="https://github.com/StudyJam.png" alt="StudyJam Logo" width="100" height="100">
   </a>
 
-[![GitHub followers](https://img.shields.io/github/followers/studyjam.svg?style=social&label=Follow)](https://github.com/studyjam?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/studyjam.svg?style=social&label=Follow)](https://github.com/studyjam?tab=followers)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/studyjam._/) <br>
+[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) <br> ![Profile views](https://komarev.com/ghpvc/?username=StudyJam&style=plastic)
+
 
 </div>
 
 <h1 align="center">StudyJam</h1>
+
 
 ### Projects and Dev Stuffs:
 
