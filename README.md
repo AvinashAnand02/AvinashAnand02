@@ -33,7 +33,7 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/avinash-anand02/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: avinashmgr53@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/18kvXgwK2btjG-2Sc4EFbSlbzqms3TN_G/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/14YW0Y3RDbleEcQb5mhTQU8YFs1fuS1hy/view?usp=sharing).
 
 ### My Absolute Favorites:
 
