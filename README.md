@@ -96,12 +96,20 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 <summary><b>🔝 Top Repository</b></summary> 
 <br>
 
-<a href="https://github.com/AvinashAnand02/Avinash-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Avinash-Portfolio&theme=buefy" />
+<a href="https://github.com/AvinashAnand02/Lost-And-Found">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Lost-And-Found&theme=buefy" />
 </a>
 <a href="https://github.com/AvinashAnand02/Server-Side-Development-with-NodeJS-coursera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Server-Side-Development-with-NodeJS-coursera&theme=buefy" />
 </a>
+<a href="https://github.com/AvinashAnand02/Django-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Django-Blog&theme=buefy" />
+</a>
+<a href="https://github.com/AvinashAnand02/Avinash-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashAnand02&repo=Avinash-Portfolio&theme=buefy" />
+</a>
+
+
 <br><br> <br> 
 <p>
   <a href="https://github.com/AvinashAnand02">
