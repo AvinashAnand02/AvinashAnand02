@@ -22,7 +22,7 @@
 
 ### Glad to see you here!
 
-I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm Avinash Anand, currently working as a Project Engineer at Wipro and pursuing my B.Tech from Lovely Professional University 🎓🏫. I'm a passionate learner who loves exploring and working across different technologies and domains 💡. I enjoy building impactful software solutions and leveraging Java Full Stack technologies like React, JavaScript, Core Java, Microservices, and Spring Boot to solve real-world problems ✨. I also enjoy guiding and mentoring aspiring developers 👨🏻‍💻. Currently, I’m focused on Web Development 🕸️ and strengthening my Data Structures and Algorithms skills 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/AvinashAnand02/AvinashAnand02/blob/main/workbench.svg" />
 
